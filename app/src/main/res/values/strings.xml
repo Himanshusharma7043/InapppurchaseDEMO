@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InapppurchaseDEMO</string>
+    <string name="purchase">Purchase</string>
+    <string name="not_purchase">Not Purchase</string>
+</resources>
